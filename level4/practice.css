@@ -1,0 +1,19 @@
+#love-div {
+  height: 100px;
+  width: 100px;
+  color: rgb(20, 255, 20);
+  font-size: 30px;
+  font-weight: 700;
+  background-image: url("deer_photo.jpg");
+  background-size: cover;
+  position: fixed;
+  right: 0px;
+  top: 100px;
+  display: block;
+  border-radius: 50%;
+  padding: 100px;
+}
+
+h3 {
+  padding-top: 50%;
+}

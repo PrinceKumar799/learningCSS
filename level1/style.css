@@ -1,0 +1,36 @@
+* {
+  color: blue;
+}
+h1 {
+  color: rgb(181, 194, 183);
+}
+button {
+  color: rgb(140, 147, 168);
+  background-color: #ffffff;
+}
+p {
+  color: #b5c2b7;
+}
+body {
+  background-color: #45364b;
+}
+
+#Heading1 {
+  color: coral;
+}
+#Heading2 {
+  color: cyan;
+}
+
+#box {
+  background-color: blue;
+  color: white;
+}
+
+.newClass {
+  color: dodgerblue;
+}
+
+.heading {
+  color: red;
+}

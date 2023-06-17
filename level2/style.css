@@ -1,0 +1,52 @@
+/* div {
+  height: 200px;
+  background-color: pink;
+  width: 200px;
+  /* border-width: 2px;
+  border-style: solid;
+  border-color: brown; */
+/* border: 2px solid brown;
+  border-radius: 15px;
+  padding: 1px 2px 3px 4px;
+}
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  height: 50px;
+  width: 200px;
+  background-color: aquamarine;
+  /* border-width: 3px;
+  border-color: black;
+  border-style: dotted; */
+/* text-align: center;
+  border: 3px dotted black;
+}  */
+* {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+.amazon-header {
+  background-color: #0f1111;
+  height: 60px;
+}
+#logo {
+  color: #f08804;
+  font-size: 25px;
+  width: 16.75%;
+}
+.amazon-header h3 {
+  font-size: medium;
+  width: 16.75%;
+}
+
+button {
+  background-color: #f08804;
+}
+
+a {
+  margin-right: 200px;
+  text-decoration: none;
+}

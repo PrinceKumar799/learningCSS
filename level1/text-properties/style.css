@@ -1,0 +1,54 @@
+p {
+  /* left,right,center,start,end */
+  text-align: none;
+}
+
+#h1 {
+  text-align: center;
+  /* underline,overline,line-through,none*/
+  text-decoration: underline dotted blue;
+}
+
+a {
+  /* remove underline from anchor text */
+  text-decoration: none;
+}
+
+#h1 {
+  font-weight: lighter;
+}
+#h2 {
+  font-weight: normal;
+}
+#h3 {
+  font-weight: bold;
+}
+#h4 {
+  font-weight: bolder;
+}
+
+#para1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+#para2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+}
+
+#centralizedHeading {
+  text-align: center;
+  text-transform: capitalize;
+}
+* {
+  font-family: "Times New Roman";
+}
+#outer {
+  font-size: 25px;
+}
+#inner {
+  font-size: 10px;
+}
